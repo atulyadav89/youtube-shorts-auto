@@ -4,27 +4,27 @@
   "channels": [
     {
       "name": "Creator_A",
-      "channel_id": "CHANNEL_ID_A",
+      "channel_id": "UCzwCEE_PchiBULMnAJqhGVg",
       "shorts_per_day": 1
     },
     {
       "name": "Creator_B",
-      "channel_id": "CHANNEL_ID_B",
+      "channel_id": "UCYalWwW79BdxmMTKUyBFj5g",
       "shorts_per_day": 1
     },
     {
       "name": "Creator_C",
-      "channel_id": "CHANNEL_ID_C",
+      "channel_id": "UCHOKvQW2N4kLVhKYn2bvF7A",
       "shorts_per_day": 1
     },
     {
       "name": "Creator_D",
-      "channel_id": "CHANNEL_ID_D",
+      "channel_id": "UCwYrtl6kSf3rN4WvUaQe5EA",
       "shorts_per_day": 1
     },
     {
       "name": "Creator_E",
-      "channel_id": "CHANNEL_ID_E",
+      "channel_id": "UCneyi-aYq4VIBYIAQgWmk_w",
       "shorts_per_day": 1
     }
   ]
