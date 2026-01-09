@@ -1,1 +1,31 @@
-
+{
+  "daily_limit_total": 5,
+  "clip_duration": 30,
+  "channels": [
+    {
+      "name": "Creator_A",
+      "channel_id": "CHANNEL_ID_A",
+      "shorts_per_day": 1
+    },
+    {
+      "name": "Creator_B",
+      "channel_id": "CHANNEL_ID_B",
+      "shorts_per_day": 1
+    },
+    {
+      "name": "Creator_C",
+      "channel_id": "CHANNEL_ID_C",
+      "shorts_per_day": 1
+    },
+    {
+      "name": "Creator_D",
+      "channel_id": "CHANNEL_ID_D",
+      "shorts_per_day": 1
+    },
+    {
+      "name": "Creator_E",
+      "channel_id": "CHANNEL_ID_E",
+      "shorts_per_day": 1
+    }
+  ]
+}
