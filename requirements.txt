@@ -1,1 +1,7 @@
-
+yt-dlp
+feedparser
+moviepy
+openai-whisper
+google-api-python-client
+google-auth
+google-auth-oauthlib
